@@ -1,2 +1,2 @@
-x=list(map(int,input().split()))
-print(max(x))
+w=list(map(int,input().split()))
+print(max(w))
